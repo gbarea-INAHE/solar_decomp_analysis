@@ -1,0 +1,6 @@
+subconjunto,n,"Reindl-2 menos Erbs, media (W/m²)",IC 95 % (bootstrap de estaciones),estaciones con Reindl-2 < Erbs,sesgo medio DIRINT v1.0.0 (W/m²),estaciones con sesgo > 0 (DIRINT v1.0.0)
+las 39,39,-6.524023882991428,"[-8.9, -3.9]",30 de 39,75.85715753935978,39 de 39
+baja altitud (≤ 500 m),29,-7.924890050522976,"[-10.2, -5.4]",25 de 29,73.95903085594442,29 de 29
+más de 500 m,10,-2.4615119971499406,"[-8.0, 3.4]",5 de 10,81.3617249212643,10 de 10
+clase Cfa (todas son de baja altitud),17,-8.670208385823708,"[-10.3, -6.6]",16 de 17,75.90192608468335,17 de 17
+las 39 reponderadas por altitud a la composición de las 54,39,-6.913153373972413,"[-9.1, -4.6]",—,75.32990012729995,—

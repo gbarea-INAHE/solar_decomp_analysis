@@ -1,0 +1,2 @@
+file,city,source_field,n_hours,cosz_kind,i0,dni_n,dni_r2,dni_mbe,dni_rmse,dni_max_abs,dni_frac_within_2,dni_frac_within_10,closure_mean_abs,closure_p99_abs,closure_frac_within_2,etr_implied_i0_median,etr_implied_i0_iqr
+ARG_MENDOZA-AERO_874180_IW2.EPW,MENDOZA-AERO,IWEC2,4273,inst_mid,1367.0,4273,0.8545881018110526,10.136294252654988,102.37044591831891,1353.7096103701294,0.12052422185817926,0.34191434589281533,2.032035199371395,6.206659111056937,0.5721975193072782,1354.97031904072,2.8848949099351557

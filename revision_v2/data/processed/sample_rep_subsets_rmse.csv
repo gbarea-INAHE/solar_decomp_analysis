@@ -1,0 +1,6 @@
+subconjunto,n,"Reindl-2 (RMSE medio de DNI, W/m²)","Erbs (RMSE medio de DNI, W/m²)","DIRINT (Perez et al., 1992) (RMSE medio de DNI, W/m²)","DIRINT v1.0.0 (RMSE medio de DNI, W/m²)",orden (menor a mayor RMSE)
+las 39,39,27.58909042024202,34.11311430323346,46.17167632555984,121.2007296035887,"Reindl-2 < Erbs < DIRINT (Perez et al., 1992) < DIRINT v1.0.0"
+baja altitud (≤ 500 m),29,25.655492972573814,33.580383023096786,43.01084571679995,119.97904962381102,"Reindl-2 < Erbs < DIRINT (Perez et al., 1992) < DIRINT v1.0.0"
+más de 500 m,10,33.19652301847982,35.658035015629764,55.33808509096353,124.74360154494396,"Reindl-2 < Erbs < DIRINT (Perez et al., 1992) < DIRINT v1.0.0"
+clase Cfa (todas son de baja altitud),17,23.676681615805528,32.34689000162924,41.638599095491664,122.41219707070759,"Reindl-2 < Erbs < DIRINT (Perez et al., 1992) < DIRINT v1.0.0"
+"las 39 reponderadas por altitud a la composición de las 54 (44 de ≤ 500 m, 10 de más)",39,27.05198001811196,33.965133392084375,45.29366782312654,120.86137405365045,"Reindl-2 < Erbs < DIRINT (Perez et al., 1992) < DIRINT v1.0.0"

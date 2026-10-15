@@ -1,0 +1,6 @@
+comparación,media en las 39 (W/m²),media que tendrían que tener las 15 para anularla (W/m²),valor extremo observado en una estación de las 39 (en sentido contrario),¿el valor de quiebre queda fuera del rango observado?,estaciones con el signo contrario al de la media
+Reindl-2 menos Erbs,-6.524023882991428,16.962462095777713,12.766910371153159,sí,9 de 39
+"Erbs menos DIRINT (Perez et al., 1992)",-12.058562022326397,31.352261258048635,-0.6751721109248408,sí,0 de 39
+"DIRINT (Perez et al., 1992) menos DIRINT v1.0.0",-75.02905327802884,195.07553852287498,-43.1770032561568,sí,0 de 39
+Reindl-2 menos DIRINT v1.0.0,-93.61163918334665,243.39026187670132,-58.56256166771641,sí,0 de 39
+sesgo medio de DIRINT v1.0.0 (MBE),75.85715753935978,-197.2286096023354,43.64223691663744,sí,0 de 39

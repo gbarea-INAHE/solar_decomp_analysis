@@ -1,0 +1,5 @@
+estacion,filas,grilla_regular,horas_ghi_nan,tramos,horas_dirint_distintas_todas,max_dif_todas,horas_c20,horas_distintas_c20,max_dif_c20
+PTR,8784,True,2541,69,0,0.0,2579,0,0.0
+SMS,8784,True,1006,236,0,0.0,3231,0,0.0
+DRA,8784,True,340,181,0,0.0,3440,0,0.0
+GOLDEN,8760,True,0,1,0,0.0,3555,0,0.0

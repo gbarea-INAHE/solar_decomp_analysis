@@ -1,0 +1,4 @@
+estado,horas,pct
+pasa (≥ 75 %),13383,91.57030448169688
+se pierde: cobertura parcial (< 75 %),935,6.397536777283613
+se pierde: hora entera sin dato,297,2.0321587410195003

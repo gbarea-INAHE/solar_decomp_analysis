@@ -1,0 +1,11 @@
+# Exact package versions of the results (produced with Python 3.11).
+# The selftests also pass with these versions on Python 3.14.5 (checked 2026-10-15).
+# pvlib is pinned exactly: dirint / disc / erbs_driesse behaviour is part of the results.
+# Python >= 3.11 is required by these numpy / pandas / scipy versions.
+pvlib==0.16.1
+pandas==3.0.6
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
+openpyxl==3.1.5
+# The root modules (decomposition.py, solar_geometry.py, ...) need only numpy / pandas / openpyxl.

@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use these scripts or data, please cite them as below."
+type: software
+title: "Solar Decomp consistency study: analysis scripts and derived data"
+abstract: >
+  Analysis scripts and derived data behind a study of how consistent the Erbs,
+  Reindl-2 and DIRINT decomposition models are with the DNI and DHI fields of
+  IWEC2 weather files for Argentina, with a limited comparison against ground
+  measurements (BSRN, SURFRAD, SRRL and the INAHE station in Mendoza). Includes
+  the one-minute global and diffuse series of the INAHE station in Mendoza
+  (2022-2025). The IWEC2 files and the BSRN, SURFRAD and SRRL series are not
+  redistributed; file lists and hashes are provided.
+authors:
+  - family-names: Barea
+    given-names: Gustavo
+    orcid: "https://orcid.org/0000-0002-5643-3206"
+    affiliation: "Instituto de Ambiente, Hábitat y Energía (INAHE) — CONICET, Argentina"
+  - family-names: Ganem
+    given-names: Carolina
+    affiliation: "Instituto de Ambiente, Hábitat y Energía (INAHE) — CONICET, Argentina"
+repository-code: "https://github.com/gbarea-INAHE/solar_decomp_analysis"
+license: MIT
+version: "1.0.0"
+keywords:
+  - solar irradiance
+  - GHI decomposition
+  - DNI
+  - DHI
+  - DIRINT
+  - IWEC2
+  - weather files
+  - Argentina
+references:
+  - type: software
+    title: "Solar Decomp: GHI to DNI+DHI solar irradiance decomposition"
+    authors:
+      - family-names: Barea
+        given-names: Gustavo
+      - family-names: Ganem
+        given-names: Carolina
+    version: "1.1.0"
+    doi: "10.5281/zenodo.23355088"
